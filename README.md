@@ -30,3 +30,4 @@ Thanks to Starbucks for providing the data for this project through Udacity.
 
 
 You can find the code to this project here: https://github.com/Bammbam/Udacity_starbuck_capstone
+Medium article can be found here: https://medium.com/@rachatachankanasuk/whatre-your-responses-to-a-starbucks-campaign-d947275114e4
